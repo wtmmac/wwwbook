@@ -17,4 +17,5 @@ hg --version
 ~~~
 ## Windows
 http://mercurial.selenic.com/release/windows/mercurial-3.0.1-x64.msi
+
 http://mercurial.selenic.com/release/windows/mercurial-3.0.1-x86.msi
